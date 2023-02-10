@@ -50,7 +50,7 @@ INSERT INTO tienda (indicator, nombre_tienda, status) VALUES ('si', 'Clinica bue
 INSERT INTO tienda (indicator, nombre_tienda, status) VALUES ('si', '2wtrade', 'Ok');
 
 
-INSERT INTO usuarios (apellidos, celular, email, fecha_creado, indicator, nombres, password, status, telefono, username, area_id_area) VALUES ('aranda vilca', '123465', 'angel@gmail.com', '2022-08-04', 'si', 'angel alex', '1345', 'Ok', '79845', 'AD030465', '1');
+INSERT INTO usuarios (apellidos, celular, email, fecha_creado, indicator, nombres, password, status, telefono, username, area_id_area) VALUES ('Canamero Gutierrez', '123465', 'carloscg@gmail.com', '2022-08-04', 'si', 'Carlos Jesus', '1345', 'Ok', '79845', 'AD030465', '1');
 INSERT INTO usuarios (apellidos, celular, email, fecha_creado, indicator, nombres, password, status, telefono, username, area_id_area) VALUES ('rojas magallanes', '123465', 'ronny@gmail.com', '2022-08-04', 'si', 'ronny', '1345', 'Ok', '79845', 'US220532', '1');
 
 
